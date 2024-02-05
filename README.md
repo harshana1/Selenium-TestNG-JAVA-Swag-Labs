@@ -17,7 +17,7 @@
 9. End
 ## Requirements
 * Java needs to be installed on the device
-## Test Cases For Automation 
+## Test Cases plus document For Automation 
 * [Google Drive](https://drive.google.com/drive/folders/1STdyiCG0M8JJlU5iIYeuuJjw1vk8DRr2?usp=sharing)
 
 ## Video of Result
